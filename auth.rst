@@ -15,7 +15,7 @@ Obtain authorization token
 
 **Input**
 
-code-block:: json
+.. code:: json
 
     POST /auth/token
     Content-Type: application/x-www-form-urlencoded
